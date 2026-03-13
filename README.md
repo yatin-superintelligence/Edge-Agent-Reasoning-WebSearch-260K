@@ -20,7 +20,7 @@ This collection is built for deep, zero-shot generalization. Rather than focusin
 - **Agentic Reasoning:** 646,883,262 Tokens
 - **Total Rows (Observations):** 260,293
 - **Compute Spend (Generation Cost):** ~1.47 Billion Tokens
-- **Grand Total Dataset Tokens (All Schema Columns):** ~712.9 Million Tokens
+- **Grand Total Dataset Tokens (All Schema Columns):** ~692.1 Million Tokens
 - **Format:** Parquet (`.parquet`)
 
 
