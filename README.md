@@ -1,4 +1,4 @@
-<img width="1440" height="804" alt="image" src="https://github.com/user-attachments/assets/9a2046be-bba5-49ed-b425-66b15a860208" />[**Access the full dataset and data viewer on Hugging Face here.**](https://huggingface.co/datasets/yatin-superintelligence/Edge-Agent-Reasoning-WebSearch-260K)
+[**Access the full dataset and data viewer on Hugging Face here.**](https://huggingface.co/datasets/yatin-superintelligence/Edge-Agent-Reasoning-WebSearch-260K)
 
 # Edge Agent Reasoning WebSearch 260K
 
